@@ -1,0 +1,15 @@
+{
+    "files.associations": {
+        "queue": "c",
+        "stack": "c",
+        "vector": "cpp",
+        "xstring": "cpp",
+        "queue.h": "c",
+        "stdio.h": "c",
+        "stack.h": "c",
+        "*.rh": "c",
+        "shared.h": "c",
+        "input.h": "c",
+        "share.h": "c"
+    }
+}
